@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628307981 source:c:\users\user20\documents\최건\문제해결을 위한 창의적 알고리즘(중급)\solutions\s2.3 - mole den\mole den\mole den\main.cpp
+	<cstdio>
+	<algorithm>
+	<queue>
+
